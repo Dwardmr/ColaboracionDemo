@@ -1,5 +1,5 @@
 
 
-def multiplicar():
+def multiplicar(a,b):
     c= a * b
-    print("La multiplicacion es: " + str(c))
+    return c
